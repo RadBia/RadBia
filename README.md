@@ -1,4 +1,6 @@
-### Hi there 👋
+### As Obi-Wan Kenobi said, "Hello there."👋
+
+I am a motivated and aspiring Java Developer, eager to learn and grow in the field of programming. I have completed extensive courses in Java at the Software Development Academy and frontend development at CodeCool, which have provided me with a solid foundation in programming principles. Continuously expanding my skill set through various learning resources, I approach projects with enthusiasm and a problem-solving mindset. I value collaboration and attention to detail, thriving in dynamic environments that appreciate creativity and foster continuous learning.
 
 ### Languages and Tools
 <div>
