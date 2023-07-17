@@ -2,9 +2,13 @@
 
 I am a motivated and aspiring Java Developer, eager to learn and grow in the field of programming. I have completed extensive courses in Java at the Software Development Academy and frontend development at CodeCool, which have provided me with a solid foundation in programming principles. Continuously expanding my skill set through various learning resources, I approach projects with enthusiasm and a problem-solving mindset. I value collaboration and attention to detail, thriving in dynamic environments that appreciate creativity and foster continuous learning.
 
-### Languages and Tools
+### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,mysql,git,docker,figma&theme=light)](https://skillicons.dev)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rbialkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rbialkowski" height="30" width="40" /></a>
+</p>
 <!--
 ### Languages and Tools
 <div>
