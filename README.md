@@ -3,7 +3,9 @@
 I am a motivated and aspiring Java Developer, eager to learn and grow in the field of programming. I have completed extensive courses in Java at the Software Development Academy and frontend development at CodeCool, which have provided me with a solid foundation in programming principles. Continuously expanding my skill set through various learning resources, I approach projects with enthusiasm and a problem-solving mindset. I value collaboration and attention to detail, thriving in dynamic environments that appreciate creativity and foster continuous learning.
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,mysql,git,docker,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,git)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
