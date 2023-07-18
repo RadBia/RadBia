@@ -9,8 +9,8 @@ I am a motivated and aspiring Java Developer, eager to learn and grow in the fie
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbia&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbia&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,7 @@ I am a motivated and aspiring Java Developer, eager to learn and grow in the fie
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   👋
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbia&theme=tokyonight)
 </div>
 
 **RadBia/RadBia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
