@@ -7,6 +7,8 @@ I am a motivated and aspiring Java Developer, eager to learn and grow in the fie
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbia&theme=tokyonight)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rbialkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rbialkowski" height="30" width="40" /></a>
