@@ -2,7 +2,7 @@
 
 
 
-I am a motivated and aspiring Java Developer, eager to learn and grow in the field of programming. I have completed extensive courses in Java at the Software Development Academy and frontend development at CodeCool, which have provided me with a solid foundation in programming principles. Continuously expanding my skill set through various learning resources, I approach projects with enthusiasm and a problem-solving mindset. I value collaboration and attention to detail, thriving in dynamic environments that appreciate creativity and foster continuous learning.
+With an engineering mindset and experience working with international teams, I am a dedicated software developer seeking new opportunities to apply my skills and knowledge in the tech industry. With over 300 hours of comprehensive training in Java at the Software Development Academy (SDA) and completing a Frontend course at CodeCool, I have built a solid foundation to begin my career as a developer. I am eager to embark on my professional journey and contribute to innovative projects.
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,git)](https://skillicons.dev)
