@@ -2,7 +2,7 @@
 
 
 
-With an engineering mindset and experience working with international teams, I am a dedicated software developer seeking new opportunities to apply my skills and knowledge in the tech industry. With over 300 hours of comprehensive training in Java at the Software Development Academy (SDA) and completing a Frontend course at CodeCool, I have built a solid foundation to begin my career as a developer. I am eager to embark on my professional journey and contribute to innovative projects.
+With an engineering mindset and experience working with international teams, I am a dedicated software developer seeking new opportunities to apply my skills and knowledge in the tech industry. I have completed a programming course in Java at the Software Development Academy (SDA) and a frontend course at CodeCool, which allowed me to create a solid foundation to begin my career as a developer. I am eager to embark on my professional journey and contribute to innovative projects.
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,git)](https://skillicons.dev)
