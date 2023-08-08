@@ -1,5 +1,4 @@
-### As Obi-Wan Kenobi said, "Hello there."🦾
-
+### As Obi-Wan Kenobi said, "Hello there." 🤝
 With an engineering mindset and experience working with international teams, I am a dedicated software developer seeking new opportunities to apply my skills and knowledge in the tech industry. I have completed a programming course in Java at the Software Development Academy (SDA) and a frontend course at CodeCool, which allowed me to create a solid foundation to begin my career as a developer. I am eager to embark on my professional journey and contribute to innovative projects.
 
 ### Languages and Tools:
