@@ -4,7 +4,7 @@ With an engineering mindset and experience working with international teams, I a
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbia&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
