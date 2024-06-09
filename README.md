@@ -1,9 +1,10 @@
 ### As Obi-Wan Kenobi said, "Hello there."🤜🤛
 With an engineering mindset and experience working with international teams, I am a dedicated software developer seeking new opportunities to apply my skills and knowledge in the tech industry. I have completed a programming course in Java at the Software Development Academy (SDA) and a frontend course at CodeCool, which allowed me to create a solid foundation to begin my career as a developer. I am eager to embark on my professional journey and contribute to innovative projects.
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker,git)](https://skillicons.dev)
+### Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,docker)](https://skillicons.dev)
 
+### Want to Improve:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbia&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
