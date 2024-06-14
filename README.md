@@ -7,10 +7,11 @@ With an engineering mindset and experience working with international teams, I a
 ### Want to Improve:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
 
+###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbia&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="left">Contact with me:</h3>
+### Contact with me:
 <p align="left">
 <a href="https://linkedin.com/in/rbialkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rbialkowski" height="30" width="40" /></a>
 &nbsp <a href="mailto:TwojAdresGmail@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="Gmail Icon" height="30" width="40"></a>
