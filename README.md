@@ -7,9 +7,10 @@ With an engineering mindset and experience working with international teams, I a
 ### Want to Improve:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
 
+<!--
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radbia&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 ### Contact with me:
 <p align="left">
